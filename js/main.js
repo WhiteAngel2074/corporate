@@ -1,6 +1,6 @@
 jQuery(document).ready(function () {
     "use strict"
-
+// Slider thing
     $('#slider-carousel').carouFredSel({
         responsive: true,
         width: '100%',
